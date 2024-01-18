@@ -1,27 +1,52 @@
-    [
-      {
-        "id": 1,
-        "immatriculation": "AB-123-CD",
-        "marque": "Renault",
-        "modele": "Master",
-        "couleur": "blanc",
-        "disponible": true,
-        "localisation": {
-          "latitude": 48.8566,
-          "longitude": 2.3522
-        }
-      },
-      {
-        "id": 2,
-        "immatriculation": "EF-456-GH",
-        "marque": "Peugeot",
-        "modele": "Boxer",
-        "couleur": "rouge",
-        "disponible": false,
-        "localisation": {
-          "latitude": 33.5731,
-          "longitude": -7.5898
-        }
+[
+  {
+    "id": 1,
+    "immatriculation": "AB-123-CD",
+    "marque": "Renault",
+    "modele": "Master",
+    "couleur": "blanc",
+    "disponible": true,
+    "localisation": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  {
+    "id": 2,
+    "immatriculation": "EF-456-GH",
+    "marque": "Peugeot",
+    "modele": "Boxer",
+    "couleur": "rouge",
+    "disponible": false,
+    "localisation": {
+      "latitude": 33.5731,
+      "longitude": -7.5898
+    }
+  },
+  [
+    {
+      "id": 5,
+      "immatriculation": "AB-123-CD",
+      "marque": "Hehe",
+      "modele": "Gg",
+      "couleur": "blanc",
+      "disponible": true,
+      "localisation": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
       }
-    ]
-  
+    },
+    {
+      "id": 2,
+      "immatriculation": "EF-456-GH",
+      "marque": "Peugeot",
+      "modele": "Boxer",
+      "couleur": "rouge",
+      "disponible": false,
+      "localisation": {
+        "latitude": 33.5731,
+        "longitude": -7.5898
+      }
+    }
+  ]
+]
